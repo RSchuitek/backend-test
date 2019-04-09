@@ -1,6 +1,14 @@
 {
-  "ProjectFilePath": "/Volumes/Dados/GitHub/PBBackend/PBBackend.Test/PBBackend.Test.csproj",
+  "ProjectFilePath": "c:\\TFS\\pb_teste\\backend-test\\PBBackend.Test\\PBBackend.Test.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }

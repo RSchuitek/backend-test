@@ -26,3 +26,17 @@ C:/TFS/PB/PBBackend/PBBackend.Api/obj/Debug/netcoreapp2.2/PBBackend.Api.pdb
 /Volumes/Dados/GitHub/PBBackend/PBBackend.Api/obj/Debug/netcoreapp2.2/PBBackend.Api.RazorTargetAssemblyInfo.cache
 /Volumes/Dados/GitHub/PBBackend/PBBackend.Api/obj/Debug/netcoreapp2.2/PBBackend.Api.dll
 /Volumes/Dados/GitHub/PBBackend/PBBackend.Api/obj/Debug/netcoreapp2.2/PBBackend.Api.pdb
+c:\TFS\pb_teste\backend-test\PBBackend.Api\bin\Debug\netcoreapp2.2\PBBackend.Api.deps.json
+c:\TFS\pb_teste\backend-test\PBBackend.Api\bin\Debug\netcoreapp2.2\PBBackend.Api.runtimeconfig.json
+c:\TFS\pb_teste\backend-test\PBBackend.Api\bin\Debug\netcoreapp2.2\PBBackend.Api.runtimeconfig.dev.json
+c:\TFS\pb_teste\backend-test\PBBackend.Api\bin\Debug\netcoreapp2.2\PBBackend.Api.dll
+c:\TFS\pb_teste\backend-test\PBBackend.Api\bin\Debug\netcoreapp2.2\PBBackend.Api.pdb
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.csprojAssemblyReference.cache
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.csproj.CoreCompileInputs.cache
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.RazorAssemblyInfo.cache
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.RazorAssemblyInfo.cs
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.AssemblyInfoInputs.cache
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.AssemblyInfo.cs
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.RazorTargetAssemblyInfo.cache
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.dll
+c:\TFS\pb_teste\backend-test\PBBackend.Api\obj\Debug\netcoreapp2.2\PBBackend.Api.pdb

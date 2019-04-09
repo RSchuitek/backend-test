@@ -13,7 +13,7 @@ namespace PBBackend.Api.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=pb_backend;User Id=SA;Password=Admin123");
+            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=pb_backend;User Id=SA;Password=Chineki001");
         }
 
          protected override void OnModelCreating(ModelBuilder builder)

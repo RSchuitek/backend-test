@@ -14,9 +14,13 @@ namespace PBBackend.Api.ViewModels.CidadeViewModels
         {
             AddNotifications(
                 new Contract()
+                    .Requires()
+                    .IsNotNullOrEmpty(Descricao, "Descricao", "O Descrição é requerido")
+                    .IsNotNullOrEmpty(Sigla, "Sigla", "O Sigla é requerido")
+                    .IsNullOrNullable(EstadoId, "EstadoId", "O id Estado é requerido")
                     .HasMaxLen(Descricao, 120, "Descricao", "A Descrição deve conter pelo até 120 caracteres")
                     .HasMinLen(Descricao, 5, "Descricao", "A Descrição deve conter pelo menos 5 caracteres")
-                    .HasMaxLen(Sigla, 2, "Sigla", "A Sigla deve conter pelo menos 2 caracteres")
+                    .HasLen(Sigla, 2, "Sigla", "A Sigla deve conter pelo menos 2 caracteres")
             );
         }
     }
